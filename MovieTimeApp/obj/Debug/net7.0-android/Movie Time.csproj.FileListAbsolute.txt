@@ -1,0 +1,12 @@
+C:\Users\Charlotte\Documents\GitHub\Movie-Time\MovieTimeApp\obj\Debug\net7.0-android\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+C:\Users\Charlotte\Documents\GitHub\Movie-Time\MovieTimeApp\obj\Debug\net7.0-android\build.props
+C:\Users\Charlotte\Documents\GitHub\Movie-Time\MovieTimeApp\obj\Debug\net7.0-android\adb.props
+C:\Users\Charlotte\Documents\GitHub\Movie-Time\MovieTimeApp\obj\Debug\net7.0-android\libraryprojectimports.cache
+C:\Users\Charlotte\Documents\GitHub\Movie-Time\MovieTimeApp\obj\Debug\net7.0-android\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Charlotte\Documents\GitHub\Movie-Time\MovieTimeApp\obj\Debug\net7.0-android\res.flag
+C:\Users\Charlotte\Documents\GitHub\Movie-Time\MovieTimeApp\obj\Debug\net7.0-android\R.txt
+C:\Users\Charlotte\Documents\GitHub\Movie-Time\MovieTimeApp\obj\Debug\net7.0-android\R.cs.flag
+C:\Users\Charlotte\Documents\GitHub\Movie-Time\MovieTimeApp\obj\Debug\net7.0-android\Movie Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charlotte\Documents\GitHub\Movie-Time\MovieTimeApp\obj\Debug\net7.0-android\Movie Time.AssemblyInfoInputs.cache
+C:\Users\Charlotte\Documents\GitHub\Movie-Time\MovieTimeApp\obj\Debug\net7.0-android\Movie Time.AssemblyInfo.cs
+C:\Users\Charlotte\Documents\GitHub\Movie-Time\MovieTimeApp\obj\Debug\net7.0-android\Movie Time.csproj.CoreCompileInputs.cache

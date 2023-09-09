@@ -18,9 +18,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Charlotte\\Documents\\GitHub\\Movie-Time\\MovieTimeApp\\MovieTimeApp.csproj",
-      "projectName": "MovieTimeApp",
-      "projectPath": "C:\\Users\\Charlotte\\Documents\\GitHub\\Movie-Time\\MovieTimeApp\\MovieTimeApp.csproj",
+      "projectUniqueName": "C:\\Users\\Charlotte\\Documents\\GitHub\\Movie-Time\\MovieTimeApp\\MovieTime.csproj",
+      "projectName": "MovieTime",
+      "projectPath": "C:\\Users\\Charlotte\\Documents\\GitHub\\Movie-Time\\MovieTimeApp\\MovieTime.csproj",
       "packagesPath": "C:\\Users\\Charlotte\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Charlotte\\Documents\\GitHub\\Movie-Time\\MovieTimeApp\\obj\\",
       "projectStyle": "PackageReference",
